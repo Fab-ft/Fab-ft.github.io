@@ -1,0 +1,24 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #de7471
+    }
+h2{
+    text-align: center;
+}    
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    }
+    img {
+        display: block;
+        margin-left: 250px;
+        margin-right: auto;
+        max-width: 100%;
+        height: auto;
+    }
+    
+    body {
+    background-color: #C6F1FA;
+    }
